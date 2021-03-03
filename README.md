@@ -19,3 +19,6 @@ The code in the repository will be updated in the first quarter of 2021. The upd
 
 # Notes
 page xvi -- (to my ears) get to grips with -> come to grips with 
+
+page 5 - Bezansony -> Bezanson
+
