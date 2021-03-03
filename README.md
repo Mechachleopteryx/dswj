@@ -15,3 +15,7 @@ If you:
 + would like to discuss the book, the code or both, please contribute to the discussions.
 
 The code in the repository will be updated in the first quarter of 2021. The updates will reflect the current state of the package ecosystem and core language (Julia 1.5.x +). 
+
+
+#Notes
+page xvi -- (to my ears) get to grips with -> come to grips with 
